@@ -1,0 +1,14 @@
+{
+  "model": "Linear Regression",
+  "mse": 48077731.16919359,
+  "rmse": 6933.810724932834,
+  "mae": 6419.911069460598,
+  "r2": 0.9068577573647874,
+  "cv_r2_mean": 0.9467219661735843,
+  "intercept": 26716.250176145535,
+  "coefficient": 9408.03127250658,
+  "train_rows": 32,
+  "test_rows": 8,
+  "min_experience": 1.1,
+  "max_experience": 10.5
+}
