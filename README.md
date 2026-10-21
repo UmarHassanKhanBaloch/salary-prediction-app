@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning project: a regression model that predicts **salary from years of experience**, served through an interactive **Streamlit** web app.
 
-**Live app:** _add your Streamlit Community Cloud link here_
+**Live app:** [https://salary-prediction-app-plrdjg6zm7ajy3epeojhft.streamlit.app/]
 
 ## Project description
 The model is trained in a Jupyter notebook (data exploration, cleaning, training, evaluation), saved with `joblib`, and loaded by the Streamlit app (`app.py`) to make predictions. The app does not retrain the model on every run.
