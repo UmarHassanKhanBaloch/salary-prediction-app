@@ -1,0 +1,20 @@
+# virtual environment
+venv/
+.venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# streamlit secrets
+.streamlit/secrets.toml
